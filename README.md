@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vitorbrito1694
+- 👀 I’m interested in VBA, Python, JavaScript e MySQL
+- 🌱 I’m currently learning Python e JavaScript
+- 📫 How to reach me: vitoraraujo1694@gmail.com
