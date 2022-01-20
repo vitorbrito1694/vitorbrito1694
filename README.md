@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vitorbrito1694
-- 👀 I’m interested in VBA, Python, JavaScript e MySQL
-- 🌱 I’m currently learning Python e JavaScript
+- 👋 Hi, I’m Vitor Brito @vitorbrito1694
+- 👀 I’m interested in Python, JavaScript, MySQL, VBA ...
+- 🌱 I’m currently learning Python API e React
 - 📫 How to reach me: vitoraraujo1694@gmail.com
